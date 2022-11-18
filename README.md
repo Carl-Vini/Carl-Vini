@@ -20,7 +20,7 @@ working as a lawyer, I always wanted to take a course in computer engineering or
 college of computer engineering in my area.
 
 What made me look for programming was not only the market demand, but also the taste for the computer, playing with the computer has always been fun for me, content
-related to computers instigate my curiosity, and I believe that I have a certain ease in learning related topics. With that I signed up for Alura (
+related to computers instigate my curiosity, and I believe that I have a certain ease in learning related topics. With that in mind I signed up for Alura (
 The biggest technology school in Brazil), I took several courses there and also some extra courses on the internet.
 
 I've been studying programming for a few months, at the moment I'm studying the front-end, with the intention of becoming a full-stack DEV, I already know a lot about the front-end, but at the moment
