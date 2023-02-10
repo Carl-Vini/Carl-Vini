@@ -8,8 +8,8 @@ O que me fez buscar a programação foi não apenas a demanda do mercado, mas ta
 relacionados a computadores instigam a minha curiosidade, e acredito que eu tenha uma certa facilidade em aprender temas relacionados. Com isso me inscrevi na Alura (
 A maior escola de tecnologia do Brasil), fiz vários cursos por lá e tambems alguns cursos extras na internet. 
 
-Estudo programação há alguns meses, no momento estou estudando o front-end, com o intuito de tornar um DEV full-stack, já sei bastante sobre o front, mas no momento 
-ainda nao mergulhei no back-end. Tenho certa familiaridade com HTML, CSS e JavaScript. Meus proximos passos são começar com o back-end e aprender mais sobre React,
+Estudo programação há alguns meses, no momento sou desenvolvedor front-end, e tenho o intuito de tornar um DEV full-stack no futuro, já sei bastante sobre o front, mas no momento 
+ainda nao mergulhei no back-end. Tenho familiaridade com HTML, CSS e JavaScript. Meus proximos passos são começar com o back-end e aprender mais sobre React,
 Angular e outros.
 
 Atualmente procuro uma vaga de emprego na área de progamação como desenvolvedor Front-End
