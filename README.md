@@ -1,7 +1,7 @@
 ## Português
 
-Olá, Eu sou o Carlos Vinícius Bezerra Sampaio, atualmente estudo e pretendo engressar no mercado de trabalho de programação. Sou formado em direito, porém nunca me vi
-tarabalhando como advogado, sempre quis fazer o curso de engenharia da computação ou algo que tivesse relação com computadores, na época que cursei direito nao havia 
+Olá, Eu sou o Carlos Vinícius Bezerra Sampaio, atualmente estudo e pretendo ingressar no mercado de trabalho de programação. Sou formado em direito, porém nunca me vi
+tarabalhando como advogado, sempre quis fazer o curso de engenharia da computação ou algo que tivesse relação com computadores, na época que cursei direito não havia 
 faculdade de engenharia da computação na minha região.
 
 O que me fez buscar a programação foi não apenas a demanda do mercado, mas tambem o gosto pelo computador, mecher no computador sempre foi divertido pra mim, conteudos 
