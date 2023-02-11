@@ -1,6 +1,6 @@
 ## Português
 
-Olá, Eu sou o Carlos Vinícius Bezerra Sampaio, atualmente estudo e pretendo ingressar no mercado de trabalho de programação. Sou formado em direito, porém nunca me vi
+Olá, Eu sou o Carlos Vinícius Bezerra Sampaio, sou desenvolvedor Front-end e pretendo ingressar no mercado de trabalho de programação. Sou formado em direito, porém nunca me vi
 tarabalhando como advogado, sempre quis fazer o curso de engenharia da computação ou algo que tivesse relação com computadores, na época que cursei direito não havia 
 faculdade de engenharia da computação na minha região.
 
@@ -15,7 +15,7 @@ Angular e outros.
 Atualmente procuro uma vaga de emprego na área de progamação como desenvolvedor Front-End
 
 ## English
-Hello, I'm Carlos Vinícius Bezerra Sampaio, currently studying and intending to enter the programming job market. I'm a law graduate, but I've never seen myself
+Hello, I'm Carlos Vinícius Bezerra Sampaio, I'm a Front-end developer and intending to enter the programming job market. I'm a law graduate, but I've never seen myself
 working as a lawyer, I always wanted to take a course in computer engineering or something related to computers, at the time I studied law there was no
 college of computer engineering in my area.
 
