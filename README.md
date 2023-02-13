@@ -23,7 +23,7 @@ What made me look for programming was not only the market demand, but also the t
 related to computers instigate my curiosity, and I believe that I have a certain ease in learning related topics. With that in mind I signed up for Alura (
 The biggest technology school in Brazil), I took several courses there and also some extra courses on the internet.
 
-I've been studying programming for a few months, at the moment I'm studying the front-end, with the intention of becoming a full-stack DEV, I already know a lot about the front-end, but at the moment
+I've been studying programming for a few months, at the moment I'm a front-end developer , with the intention of becoming a full-stack DEV, I already know a lot about the front-end, but at the moment
 I haven't delved into the backend yet. I have some familiarity with HTML, CSS and JavaScript. My next steps are to start with the backend and learn more about React,
 Angular and others.
 
