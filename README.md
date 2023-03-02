@@ -12,7 +12,7 @@ Estudo programação há alguns meses, no momento sou desenvolvedor front-end, e
 ainda nao mergulhei no back-end. Tenho familiaridade com HTML, CSS e JavaScript. Meus proximos passos são começar com o back-end e aprender mais sobre React,
 Angular e outros.
 
-Atualmente procuro uma vaga de emprego na área de progamação como desenvolvedor Front-End
+Atualmente sou Desenvolvedor Front-End
 
 ## English
 Hello, I'm Carlos Vinícius Bezerra Sampaio, I'm a Front-end developer and intending to enter the programming job market. I'm a law graduate, but I've never seen myself
@@ -27,7 +27,7 @@ I've been studying programming for a few months, at the moment I'm a front-end d
 I haven't delved into the backend yet. I have some familiarity with HTML, CSS and JavaScript. My next steps are to start with the backend and learn more about React,
 Angular and others.
 
-I am currently looking for a job vacancy in the programming area as a Front-End Dev.
+I am currently a Front-End Developer
 
 
 <!---
