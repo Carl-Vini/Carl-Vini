@@ -1,7 +1,22 @@
-# **Português**
 
-Olá, Eu sou o Carlos Vinícius Bezerra Sampaio, sou desenvolvedor Front-end. Sou formado em direito, porém nunca me vi
-tarabalhando como advogado, sempre quis fazer o curso de engenharia da computação ou algo que tivesse relação com computadores, na época que cursei direito não havia 
+# Carlos Vinícius Bezerra Sampaio 
+
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >
+          
+<div>
+<a href="https://github.com/Carl-Vini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carl-Vini&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carl-Vini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<details>
+
+<summary>Sobre Mim / About Me</summary>
+
+## **Português**
+
+Eu sou o Carlos Vinícius Bezerra Sampaio. Sou desenvolvedor Front-end. Me formei no curso de direito, porém nunca me vi
+trabalhando como advogado, sempre quis fazer o curso de engenharia da computação ou algo que tivesse relação com computadores, na época que cursei direito não havia 
 faculdade de engenharia da computação na minha região.
 
 O que me fez buscar a programação foi não apenas a demanda do mercado, mas também o gosto pelo computador, mexer no computador sempre foi divertido pra mim, conteudos 
@@ -13,7 +28,7 @@ Angular e outros.
 
 Atualmente sou Desenvolvedor Front-End
 
-# **English**
+## **English**
 Hello, I'm Carlos Vinícius Bezerra Sampaio, I'm a Front-end developer and intending to enter the programming job market. I'm a law graduate, but I've never seen myself
 working as a lawyer, I always wanted to take a course in computer engineering or something related to computers, at the time I studied law there was no
 college of computer engineering in my area.
@@ -28,8 +43,17 @@ Angular and others.
 
 I am currently a Front-End Developer
 
-
+</details>
 <!---
 Carl-Vini/Carl-Vini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Tecnologias e  Ferramentas 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" heigth="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" heigth="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigth="40"/>
+          
+          
+                   
+
